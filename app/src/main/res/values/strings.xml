@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PetProject</string>
+    <string name="all_characters">All Characters</string>
+    <string name="all_comics">All Comics</string>
+    <string name="century_comics">Comics by century</string>
+    <string name="parts_comics">Comics by parts</string>
+    <string name="random_comics">Random Comic</string>
+</resources>
